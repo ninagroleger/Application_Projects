@@ -2,7 +2,9 @@
 title: "Decision Trees, Random Forests and Clustering"
 author: "Nina Groleger"
 date: "23 11 2020"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r, message = FALSE}
